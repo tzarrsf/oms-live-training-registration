@@ -23,5 +23,5 @@ Code is invoked via the onFormSubmit method. You can submit the form using your 
 
 # TODOs:
 
-1. Add a digest function to send at a fixed internal instead of sending every email live (per the Slack Channel approach): https://github.com/tzarrsf/commerce-slack-channel-request-form
-2. Make it so you don't have to leave the gmail interface (uber lazy Tom pet project)
+1. Add a digest function to send at a fixed internal instead of sending every email live [per the Slack Channel approach](https://github.com/tzarrsf/commerce-slack-channel-request-form)
+2. Make it so you don't have to leave the gmail interface at all to approve / action (uber lazy Tom pet project)
